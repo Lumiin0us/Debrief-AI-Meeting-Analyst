@@ -1,6 +1,6 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
-import UploadPage from "./components/uploadPage";
+import UploadPage from "./components/UploadPage";
 import HistoryPage from "./components/HistoryPage";
 import MeetingPage from "./components/MeetingPage";
 
