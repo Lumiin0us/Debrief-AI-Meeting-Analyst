@@ -21,15 +21,15 @@ Debrief runs a three-stage AI pipeline on every uploaded meeting:
 
 ## Tech Stack
 
-OpenAI Whisper
-Groq API (llama-3.3-70b-versatile)
-FastAPI
-SQLite
-SQLAlchemy
-ReactJS
-Tailwind CSS
-Vercel (frontend)
-Railway (backend)
+OpenAI Whisper  
+Groq API (llama-3.3-70b-versatile)  
+FastAPI  
+SQLite  
+SQLAlchemy  
+ReactJS  
+Tailwind CSS  
+Vercel (frontend)  
+HuggingFace (backend)  
 
 ---
 
@@ -103,6 +103,6 @@ mp3, mp4, wav, m4a, ogg, flac, webm, mov
 
 ## Debrief UI
 
-<img width="504" height="607" alt="Screenshot 2026-03-16 at 1 07 00 AM" src="https://github.com/user-attachments/assets/64f64b3b-2dbc-4dee-8a98-adaaf26baa57" />
-<img width="1440" height="722" alt="Screenshot 2026-03-16 at 1 06 53 AM" src="https://github.com/user-attachments/assets/6c46733b-aaa0-4d45-928a-4e299b02a25e" />
 <img width="1439" height="724" alt="Screenshot 2026-03-16 at 1 06 39 AM" src="https://github.com/user-attachments/assets/6827aec1-1dcc-4522-b0a1-14da31ee228e" />
+<img width="1440" height="722" alt="Screenshot 2026-03-16 at 1 06 53 AM" src="https://github.com/user-attachments/assets/6c46733b-aaa0-4d45-928a-4e299b02a25e" />
+<img width="504" height="607" alt="Screenshot 2026-03-16 at 1 07 00 AM" src="https://github.com/user-attachments/assets/64f64b3b-2dbc-4dee-8a98-adaaf26baa57" />
